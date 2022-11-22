@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 
 **David is a junior studying Computer Science @ USC.**
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=itsdawei&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsdawei&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsdawei&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true&count_private=true" alt="itsdawei's github stats" />
